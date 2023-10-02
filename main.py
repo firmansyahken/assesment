@@ -1,3 +1,6 @@
+# Wahyudi Firmansyah
+# 220411100044
+
 import sys
 from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QPushButton, QLineEdit, QLabel
 
